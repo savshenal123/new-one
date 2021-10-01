@@ -10,7 +10,6 @@ while True:
         break
     else:
         guess = int(input("nope,try again : "))
-play =input("press to exit ': ")
 exit
 
 
